@@ -53,5 +53,5 @@ module.exports = function(grunt) {
 
     //创建自定义任务
     //grunt.registerTask('default', ['jshint','uglify','watch']);
-    grunt.registerTask('ec6', ['babel']);
+    grunt.registerTask('es6', ['babel']);
 };
